@@ -1,0 +1,19 @@
+/* src/App.css */
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(73, 106, 160, 0.1);
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  h2 {
+    color: #6e34bb;
+  }
+  
+  p {
+    color: #990d0d;
+  }
+  
